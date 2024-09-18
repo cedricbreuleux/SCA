@@ -1,0 +1,9 @@
+{
+    "titre": "SCA",
+    "description": "Refonte graphique d'un site contenant des services facilitant la comptabilité.",
+    "introduction": "SCA est un site qui propose des outils aux hôtels afin de faciliter une grande partie de leur comptabilité. Le site n'étant plus très moderne visuellement, j'ai eu la chance, en binôme avec une autre alternante, d'avoir pour mission de réaliser une refonte graphique complète de ce site, ainsi qu'en implémentant un design responsive, en nous appuyant sur un ensemble de maquettes fournies.",
+    "technologies": "Ce projet utilise KnockoutJS pour la partie front-end et .NET pour le back-end. À noter également que TypeScript a été ajouté à la partie front, ainsi que jQuery et la bibliothèque Telerik Kendo. Le style, y compris la surcouche des composants Kendo, est réalisé en SCSS.",
+    "fonctionnement": "Malheureusement, SCA n'est pas un projet open source et libre d'accès, je ne peux donc pas expliquer son fonctionnement technique. Cependant, vous trouverez plus bas des images illustrant l'avant et l'après.",
+    "liensExterne": [
+    ]
+}

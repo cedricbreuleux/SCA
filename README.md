@@ -1,0 +1,1 @@
+Ce repository n'est pas un projet. Il sert uniquement à alimenter mon portfolio : ceceland.fr.
